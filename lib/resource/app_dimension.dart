@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+
+class AppDimen {
+static const double textSize12 = 12.0;
+static const double textSize14 = 14.0;
+static const double textSize16 = 16.0;
+static const double textSize18 = 18.0;
+static const double textSize20 = 20.0;
+static const double textSize22 = 22.0;
+static const double textSize24 = 24.0;
+static const double textSize26 = 26.0;
+static const double textSize28 = 28.0;
+static BorderRadius borderRadius = BorderRadius.circular(12);
+static const double appMargin = 20.0;
+}
